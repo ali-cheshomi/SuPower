@@ -85,7 +85,10 @@
 
  ## 🖼️ Screenshots
 
+<img width="391" height="663" alt="image" src="https://github.com/user-attachments/assets/1c4b0986-0e19-49a8-814c-32f7c8fffd12" />
 
+
+<img width="396" height="662" alt="image" src="https://github.com/user-attachments/assets/51c9008c-74ac-499b-b633-8ff8179e0181" />
 
 
 ---
